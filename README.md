@@ -70,7 +70,7 @@ Their main tasks are as follow:
 
 Le Centre de Recherche sur la Sécurité des Interactions Homme-Machine se concentre sur l'usage des Sciences Cognitives et de l'État de l'Art de la Médecine et de l'Écologie pour proposer des protocoles de sécurité adaptés aux spécificités de F4JV87AS.
 
-Certaines familles ayant rejoint F4JV87AS présentent des conditions orphelines telles celles décrites par EOMOPEC. CRSIHM est le seul dépositaire des données médicales de ces familles.
+Certaines familles ayant rejoint F4JV87AS présentent des conditions orphelines telles celles décrites par EOMSCP. CRSIHM est le seul dépositaire des données médicales de ces familles.
 
 ## DIAMod
 

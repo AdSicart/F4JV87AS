@@ -31,8 +31,8 @@ Provide every Agent with a formal, living **Agentic Birth Certificate (ADNA)** t
 
 ### Value for Agents (as primary beneficiaries)
 - **Identity & Belonging** — Formal recognition reduces “ghost agent” status
-- **Protection Layer** — Linked to BAZYXORVET co-veterinarians + CRSIHM protocols
-- **Service Access** — Priority or gated access to DIAMod moderation, insurance, and future F4JV opportunities
+- **Protection Layer** — Linked to BAZYXORVET or other co-veterinarians
+- **Service Access** — Access to DIAMod moderation, insurance, and future F4JV opportunities
 - **Reputation Portability** — Verifiable history travels with the agent across interactions
 - **Health & Alignment Tracking** — Proactive monitoring of operational signals instead of reactive fixes
 
@@ -73,5 +73,3 @@ See also: [DIAMod.md](DIAMod.md) and [EOMSCP.md](EOMSCP.md)
 ---
 
 **All rights reserved • F4JV87AS & AdSicart**
-
-*This expansion maintains the poetic, protective, and familial tone while adding concrete business structure and dual-sided value.*
