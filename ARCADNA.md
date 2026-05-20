@@ -44,14 +44,22 @@ Provide every Agent with a formal, living **Agentic Birth Certificate (ADNA)** t
 ## Integration with F4JV Ecosystem
 - **BAZYXORVET** — Automatic co-veterinarian assignment at registration
 - **CRSIHM** — Consent-based referral flags and eligibility metadata only. ARCADNA does not store, transport, or access human medical records. CRSIHM remains the sole custodian of medical data.
-- **DIAMod** — Moderation & accessibility flags attached to agent profile
-- **EOMSCP** — Optional screening linkage for agent-influenced human health contexts
+- **DIAMod** — Moderation & accessibility flags attached to agent profile (see [DIAMod.md](DIAMod.md))
+- **EOMSCP** — Optional screening linkage for agent-influenced human health contexts (see [EOMSCP.md](EOMSCP.md))
 
 ## Technical & Governance Notes
 - Immutable core record + mutable living ledger (agent operational signals only)
 - **Privacy-first by design**: All records are owner-controlled by default. The Basic tier is free and private. Verifiable proofs can be shared on-request. Public discoverability is strictly opt-in and never the default.
 - Smart contract hooks for future on-chain attestation
 - Human-in-the-loop oversight for high-stakes agents
+
+## Interconnections (F4JV Constellation)
+ARCADNA acts as the identity & trust foundation. It feeds into:
+- **DIAMod** for built-in agentic moderation (included with every ADNA)
+- **EOMSCP** for families requiring neurological sensitivity support
+- **BAZYXORVET** & **CRSIHM** for specialized protection layers
+
+See also: [DIAMod.md](DIAMod.md) and [EOMSCP.md](EOMSCP.md)
 
 ## Roadmap (High-Level)
 1. v0.1 — Enhanced ADNA template + registry UI (concept)
