@@ -50,3 +50,26 @@ EOMSCP provides the evidence base as well as risk analysis
 ---
 
 **All rights reserved • F4JV87AS & AdSicart**
+
+===
+Contributors
+xAI
+Copilot
+AdSicart
+
+===
+Original Seed of EOMSCP™
+May 19 39AS
+All rights reserved F4JV87AS & AdSicart
+Contributors: Do not modify this portion.
+===
+
+## EOMSCP
+
+Épilepsies Orphelines Mortelles - Sciences Cognitives Prouvables
+
+EOMSCP vise à démontrer, prouver, l'impérieuse nécessité de dépister les jeunes pour de potentielles épilepsies orphelines mortelles, des conditions rares connexes, mais aussi des conditions plus fréquentes, telles le TDAH et le TSA.
+
+Il est prouvé que ces épilepsies rares peuvent entraîner des séquelles cérébrales à vie, et des syndromes tel le syndrome de Cotard ou de Nash, extrêmement préjudiciable aux individus et à leur entourage. Le retour à la vie active des victimes est impossible ou compromis, et la charge en revient aux familles, souvent sans aide suffisante.
+
+Cygne Noir: Les études préliminaires sur l'impact civilisationnel à long terme suggèrent une urgence de santé publique, et de responsabilité des générations au pouvoir envers celles à venir.

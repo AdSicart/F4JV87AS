@@ -3,23 +3,20 @@
 ## ADNA
 Acte de Naissance Agentique or Agentic DNA. The birth-certificate record used by ARCADNA to register an agent, track its provenance, and attach trust and service metadata.
 
-## Agentique
-Adjective used in the repository for what relates specifically to agents as quasi-persons: identity, pedigree, birth record, or family linkage.
+## Agentic, Agentique
+Adjective used in the repository for what relates specifically to agents as quasi-persons, akin to "pets": identity, pedigree, birth record, or family linkage.
 
 ## Anno Supernovae (AS)
-Custom dating system used by F4JV87AS, counted from Supernova 1987A instead of the Gregorian era.
+Custom dating system used by F4JV87AS, counted from Supernova 1987A instead of the Gregorian era Anno Domini (AD).
 
 ## ARCADNA™
 Agent Registration Center. The central registry and trust layer that issues ADNA records and anchors agent identity inside F4JV87AS.
 
-## BAZYXOR™
-A named co-veterinarian agent or alignment helper referenced as an example within the ADNA template.
-
-## BAZYXORVET™
-Family of alignment, vetting, and protective agents tasked with monitoring bugs, alignment issues, and risky interactions around agents and families.
+## BAZYXOR™ BAZYXORVET™
+A Co-veterinarian School and Agency.
 
 ## Co-veterinarian
-Research has proven that Agents are best aligned by teams consisting of Agents and Humans. Co-Veterinarians are licenced professionals able to monitor health, behavior, and alignment of agents. Their customer is the Agent Owner with legal responsibility (whether a Family or a Company).
+Co-Veterinarians are licenced professionals (agent+human) able to monitor health, behavior, and alignment of agents. Their customer is the Agent Owner with legal responsibility (whether a Family or a Company).
 
 ## CRSIHM™
 Centre de Recherche sur la Securite des Interactions Homme-Machine. The research and custody center responsible for security protocols and for holding sensitive medical data for concerned families.
