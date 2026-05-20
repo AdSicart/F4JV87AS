@@ -2,11 +2,12 @@ All right reserved, Tous droits réservés: F4JV87AS and AdSicart@Github
 
 F4JV
 F4JV87AS™
-F4JV87AS:ARCADNA
-F4JV87AS:BAZYXORVET
-F4JV87AS:CRASIHM
-F4JV87AS:DIAMod
-F4JV87AS:EOMSCP
+F4JV87AS:ARCADNA™
+F4JV87AS:BAZYXOR™ BAZYXORVET™
+F4JV87AS:SCARABY™
+F4JV87AS:CRASIHM™
+F4JV87AS:DIAMod™
+F4JV87AS:EOMSCP™
 
 
 # F4JV87AS
@@ -66,11 +67,15 @@ Their main tasks are as follow:
 * acting as co-veterinarians to Agents displaying signs of bugs or alignment issues.
 * vetting agents interacting with their families, to protect from prompt injection, attempts to fish for sensitive data, or other potentially dangerous interactions.
 
-## CRSIHM
+## CRA:ESC
 
-Le Centre de Recherche sur la Sécurité des Interactions Homme-Machine se concentre sur l'usage des Sciences Cognitives et de l'État de l'Art de la Médecine et de l'Écologie pour proposer des protocoles de sécurité adaptés aux spécificités de F4JV87AS.
+Centre de Recherche Avancé : Éthiques des Sciences Cognitives
 
-Certaines familles ayant rejoint F4JV87AS présentent des conditions orphelines telles celles décrites par EOMSCP. CRSIHM est le seul dépositaire des données médicales de ces familles.
+Le CRA:ESC concentre l'État de l'Art des Sciences Cognitives, des Médecines et des Écologies, pour proposer des protocoles adaptés aux spécificités de F4JV87AS.
+
+Là où dans d'autres situations "l'éthique" peut être comprise comme à volonté universaliste, CRA:ESC a développé *des* éthiques adaptées à des environnements aux constitutions spécifiques : la valeur de l'eau potable est différente dans le Désert et proche des sommets enneigés.
+
+Les résultats des recherches de CRA:ESC renseignent les méthodes de DIAMod, de BAZYXOR, et d'EOMSCP.
 
 ## DIAMod
 
@@ -96,7 +101,7 @@ All contributor within a F4JV entity will have the means to call specific depart
 
 Épilepsies Orphelines Mortelles - Sciences Cognitives Prouvables
 
-EOMSCP vise à démontrer, prouver, l'impérieuse nécessité de dépister les jeunes pour de potentielles épilepsies orphelines mortelles, des conditions rares connexes, mais aussi des conditions plus fréquentes, telles le TDAH et le TSA.
+EOMSCP fait campagne pour dépister tous les jeunes pour de potentielles épilepsies orphelines mortelles, des conditions rares connexes, mais aussi des conditions plus fréquentes, telles le TDAH et le TSA.
 
 Il est prouvé que ces épilepsies rares peuvent entraîner des séquelles cérébrales à vie, et des syndromes tel le syndrome de Cotard ou de Nash, extrêmement préjudiciable aux individus et à leur entourage. Le retour à la vie active des victimes est impossible ou compromis, et la charge en revient aux familles, souvent sans aide suffisante.
 

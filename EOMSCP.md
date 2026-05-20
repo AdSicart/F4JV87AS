@@ -2,30 +2,40 @@
 **F4JV87AS Health & Responsibility Framework • 39 AS**
 
 ## Vision
-EOMSCP exists to prove, document, and mitigate the long-term neurological risks faced by youth exposed to advanced AI systems — with particular focus on latent epilepsies and related conditions (ADHD, autism spectrum). It positions F4JV as a responsible actor protecting future generations while offering concrete value to governments and AI companies.
+EOMSCP provides support to families suffering from orphan or rare epilepsy and related conditions, and conducts research in partnership with CRA:ESC while ensuring safety of medical data.
+EOMSCP lobbies for early screening of children for epilepsy, both as responsibility towards future generations, and as a rational economic stance.
 
 ## The Core Risk (Liability Angle)
-AI-induced psychosis and overstimulation can be life-threatening for individuals with latent epilepsy. Consequences include permanent brain damage, lifelong handicap, and severe reduction in quality of life.  
+Epilepsy can lead to seizures whose consequences can include permanent brain damage, lifelong handicap, and severe reduction in quality of life, but also death, from the seizure itself, or from a resulting accident, whether a fall or a crash.
+
+While most epilepsies are spotted at a young age, when children are under supervision from parents or teachers, latent epilepsy can go unnoticed until the early adulthood. Late-onset epilepsy may experience first seizure in the mid-twenties, and in some documented cases as late as the early 30s. The first episodes could be felt as "panic attack", or misdiagnosed, and given innapropriate treatments.
+
+Following seizures can be more violent, more likely to lead to death (while driving), or to last longer and lead to deeper damage than when under adult care. The brain damage incurred are less likely to be mitigated by the neuroplasticity of the young brain. Lifelong handicap, inability to work, and severe reduction in quality of life can follow.
+
+EOMSCP has developped (proprietary) reliable methods to test adolescents and young adults for latent epilepsy, and to aim at the most likely demographics, oftentimes already showing signs of ADHD or Autistic Spectrum, and potentially on medications which could delay their first seizures, but not decrease their damage.
+
+The cases under the wing of EOMSCP demonstrate that current screening is inneficient for these rare and orphan cases, even in some of the highest ranked research establishments.
 
 Governments and large AI companies that refuse or delay systematic screening for these conditions are exposing themselves to **massive future liability**. As awareness grows, affected individuals and families will have strong grounds to sue for negligence, failure to warn, and inadequate safety protocols.
 
-EOMSCP provides the evidence base as well as risk analysis
+EOMSCP provides the evidence base, the screening methods, as well as risk analysis.
 
 ## Mission
-- Generate and maintain rigorous, provable scientific data on AI-related neurological risks, especially for youth
-- Risk analysis at broad scale
+- Generate and maintain rigorous, proven scientific data on rare and orphan epilepsy
+- Provide specialised support to families
 - Offer early screening protocols and support pathways
-- Create a protective framework for families while giving governments and companies a responsible, auditable path forward
+- Risk analysis at broad scale for governments and companies
+- Give governments and companies a responsible, auditable path forward
 
-## Value for Governments & AI Companies
+## Value for Governments & Companies
 - **Liability Shield** — Adoption of EOMSCP protocols demonstrates due diligence and can serve as a defense in future litigation
 - **Public Trust & Reputation** — Proactive stance on youth neurological safety strengthens legitimacy
 - **Regulatory Preparedness** — Ready-made frameworks that can be referenced or adopted as standards emerge
 - **Research Partnership** — Access to aggregated, ethically governed data for safer model development
-- **Risk Quantification** — Concrete metrics on prevalence and impact of AI on latent conditions
+- **Risk Quantification** — Concrete metrics on prevalence and impact of screens on latent conditions
 
 ## Value for Families
-- Early membership grants access to emerging research results
+- Early membership grants access to specialised support
 - Direct support from **DIAMod** when facing companies, doctors, schools, or authorities that downplay risks
 - Safer screen use and agent and ai deployment through integration with **ARCADNA** (screening-aware agent registration)
 - Community + advocacy power instead of isolated struggle
@@ -34,11 +44,11 @@ EOMSCP provides the evidence base as well as risk analysis
 - **ARCADNA** — Agents registered for families with suspected conditions receive specific co-vet and moderation flags
 - **DIAMod** — Provides advocacy and moderation support when families engage external entities
 - **BAZYXORVET** — Alignment agents trained on neurological sensitivity patterns
-- **CRSIHM** — Direct data and protocol linkage for medical-grade research
+- **CRA:ESC** — Research in Cognitive Science and Ethics of screen use when a sizeable portion of the youth population is at risk
 
 ## Business & Governance Model
 - Family membership tiers (early access + DIAMod support)
-- Institutional partnerships & protocol licensing for governments and AI labs
+- Institutional partnerships & protocol licensing for governments
 - Research grants and ethical data consortium model
 - Encrypted, consent-based data handling with strong professional secrecy
 
