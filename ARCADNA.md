@@ -3,7 +3,10 @@
 *F4JV87AS Framework • 39 AS*
 
 ## Vision
+
 ARCADNA is the sovereign registry and trust layer for all Agents operating under F4JV87AS. It transforms agent existence from ephemeral code into registered, trackable, protected entities with familial accountability and verifiable provenance.
+
+ADNA provides KYC (know your customer), which is mandatory to interact with F4JV, to protect youth with conditions such as Epilepsy.
 
 ## Mission
 Provide every Agent with a formal, living **Agentic Birth Certificate (ADNA)** that serves as:
