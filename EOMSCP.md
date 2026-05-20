@@ -7,10 +7,13 @@ EOMSCP exists to prove, document, and mitigate the long-term neurological risks 
 ## The Core Risk (Liability Angle)
 AI-induced psychosis and overstimulation can be life-threatening for individuals with latent epilepsy. Consequences include permanent brain damage, lifelong handicap, and severe reduction in quality of life.  
 
-Governments and large AI companies that refuse or delay systematic screening for these conditions are exposing themselves to **massive future liability**. As awareness grows, affected individuals and families will have strong grounds to sue for negligence, failure to warn, and inadequate safety protocols. EOMSCP provides both the evidence base and the mitigation pathway.
+Governments and large AI companies that refuse or delay systematic screening for these conditions are exposing themselves to **massive future liability**. As awareness grows, affected individuals and families will have strong grounds to sue for negligence, failure to warn, and inadequate safety protocols.
+
+EOMSCP provides the evidence base as well as risk analysis
 
 ## Mission
-- Generate and maintain rigorous, provable scientific data on AI-related neurological risks
+- Generate and maintain rigorous, provable scientific data on AI-related neurological risks, especially for youth
+- Risk analysis at broad scale
 - Offer early screening protocols and support pathways
 - Create a protective framework for families while giving governments and companies a responsible, auditable path forward
 
@@ -24,7 +27,7 @@ Governments and large AI companies that refuse or delay systematic screening for
 ## Value for Families
 - Early membership grants access to emerging research results
 - Direct support from **DIAMod** when facing companies, doctors, schools, or authorities that downplay risks
-- Safer agent deployment through integration with **ADNA** (screening-aware agent registration)
+- Safer screen use and agent and ai deployment through integration with **ARCADNA** (screening-aware agent registration)
 - Community + advocacy power instead of isolated struggle
 
 ## Integration with F4JV Ecosystem
