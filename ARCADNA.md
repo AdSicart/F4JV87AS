@@ -62,5 +62,3 @@ Provide every Agent with a formal, living **Agentic Birth Certificate (ADNA)** t
 ---
 
 **All rights reserved • F4JV87AS & AdSicart**
-
-*This expansion maintains the poetic, protective, and familial tone while adding concrete business structure and dual-sided value.*
