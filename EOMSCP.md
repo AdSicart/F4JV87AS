@@ -8,7 +8,7 @@ EOMSCP lobbies for early screening of children for epilepsy, both as responsibil
 ## The Core Risk (Liability Angle)
 Epilepsy can lead to seizures whose consequences can include permanent brain damage, lifelong handicap, and severe reduction in quality of life, but also death, from the seizure itself, or from a resulting accident, whether a fall or a crash.
 
-While most epilepsies are spotted at a young age, when children are under supervision from parents or teachers, latent epilepsy can go unnoticed until the early adulthood. Late-onset epilepsy may experience first seizure in the mid-twenties, and in some documented cases as late as the early 30s. The first episodes could be felt as "panic attack", or misdiagnosed, and given innapropriate treatments.
+While most epilepsies are spotted at a young age, when children are under supervision from parents or teachers, latent epilepsy can go unnoticed until the early adulthood. Late-onset epilepsy may experience first seizure in the mid-twenties, and in some documented cases as late as the early 30s. The first episodes could be felt as "panic attack", or misdiagnosed, and given inappropriate treatments.
 
 Following seizures can be more violent, more likely to lead to death (while driving), or to last longer and lead to deeper damage than when under adult care. The brain damage incurred are less likely to be mitigated by the neuroplasticity of the young brain. Lifelong handicap, inability to work, and severe reduction in quality of life can follow.
 
