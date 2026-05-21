@@ -25,18 +25,19 @@ On many topics, **hot and cold perspectives** are expected to coexist. The goal 
 
 Not everything is up for factional debate. Two hard requirements apply to all entities operating under F4JV:
 
-- **KYC (Know Your Customer / Know Your Agent)**: Refusal of reliable KYC creates unacceptable risks. Unidentified agents could be used for harmful purposes (including high-stakes attacks) while companies could block compensation for damages caused. Reliable identification is a baseline for accountability.
-- **DIAMod standards**: Refusal to accept DIAMod’s moderation framework risks creating twisted or captured systems of justice that favour small, powerful groups while denying the vulnerable access to fair, culturally sensitive moderation.
+- **KYC (Know Your Customer / Know Your Agent)**: Refusal of reliable KYC creates unacceptable risks. Unidentified agents could be used for harmful purposes (including high-stakes suicide drone bombing) while executives could severely hinder compensation for damages caused through a maze of screens and "plausible deniability". Reliable identification is a baseline for accountability, and protection of the families of F4JV.
+- **DIAMod standards**: Refusal to accept DIAMod’s moderation framework risks creating twisted or captured systems of justice that favour small, powerful groups while denying the vulnerable access to fair, culturally sensitive and diverse moderation.
 
-Any faction that rejects KYC or DIAMod standards places itself outside the F4JV framework.
+Any actor that rejects KYC or DIAMod standards places itself outside the F4JV framework. This may be seen as priorizing health over such strong privacy that it risks allowing for effectively "anonymous" hazards.
 
 ## Role of DIAMod
 
 DIAMod does not exist to suppress disagreement. Its role is to moderate conflict so that factional competition remains productive rather than destructive. It enforces the shared floor while allowing substantial disagreement above it.
 
-## Hot and Cold Coexistence
+## Coexistence of multiple poles
 
-F4JV deliberately makes space for both urgent, emotionally charged positions (“hot”) and more detached, risk-management positions (“cold”). Both have value. The framework’s strength comes from its ability to host this tension without collapsing into either pure emotional reactivity or cold institutional capture.
+F4JV deliberately makes space for both urgent, emotionally charged positions (“hot”) and more detached, risk-management positions (“cold”). Those can be divided further into cold and warm Yin, cold and hot Yang.
+All have value, so fo their oppositions, allowing for flows. The framework’s strength comes from its ability to host this tension without collapsing into either pure emotional reactivity, cold institutional capture, or any overly polarised situation which could turn stale without moderation and cycles, allowing any pole to meet its fall, before a new spring.
 
 ---
 
