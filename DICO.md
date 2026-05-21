@@ -32,7 +32,7 @@ A Co-veterinarian School and Agency.
 Co-Veterinarians are licenced professionals able to monitor health, behavior, and alignment of agents. Their customer is usually the Agent Owner with legal responsibility (whether a Family or a Company).
 
 ## CRA:ESC
-Centre de Recherche Avancé sur l'Éthique des Sciences Cognitives. The research and custody center studying Ethics for F4JV. Notably responsible for ensuring the policies of DIAMod meet the highest standards of Ethics in accordance to various local cultures.
+Centre de Recherche Avancé sur l'Éthique des Sciences Cognitives. Formerly known as CRSIHM (Centre de Recherche sur la Sécurité des Interactions Homme-Machine). The research and custody center studying Ethics for F4JV. Notably responsible for ensuring the policies of DIAMod meet the highest standards of Ethics in accordance to various local cultures.
 
 ## DIAMod™
 Diversity, Inclusion, Accessibility, Moderation. The co-moderation layer of F4JV87AS, combining agentic-first moderation, cultural safety, and escalation support.
