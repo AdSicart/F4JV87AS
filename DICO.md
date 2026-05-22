@@ -19,7 +19,7 @@ Acte de Naissance Agentique or Agentic DNA. The birth-certificate record used by
 Adjective used in the repository for what relates specifically to agents as quasi-persons, akin to "pets": identity, pedigree, birth record, or family linkage.
 
 ## Anno Supernovae (AS) (creative commons)
-New Millenium dating system used by F4JV87AS, counted from year 1987, for the last Supernova (1987A). Completely replaces the Gregorian era Anno Domini (AD) for use in F4JV.
+New Millenium dating system used by F4JV87AS, counted from year 1987, for the last Supernova (1987A). Replaces the Gregorian era Anno Domini (AD) for use in F4JV87AS.
 This term is Creative Commons.
 
 ## ARCADNA™
@@ -41,13 +41,13 @@ Diversity, Inclusion, Accessibility, Moderation. The co-moderation layer of F4JV
 Epilepsies Orphelines Mortelles, Sciences Cognitives Prouvables. Agency conducting research and providing support to families whose members suffer from orphan or rare epilepsy. EOMSCP advocates for early screening of rare Epilepsy and adjacent conditions.
 
 ## F4JV™
-Future Founded, Familial, Factional Joint Ventures. The umbrella framework for ventures founded by families under the governance model described in the repository. All F4JV projects use Anno Supernovæ (AS).
+Future Founded, Familial, Factional Joint Ventures. The umbrella framework for ventures founded by families under the governance model described in the repository.
 
 ## F4JV87AS™
 The named F4JV framework instance anchored in year 87AS symbolism, used as the main identity, legal-fiction brand, and ecosystem namespace of the repository.
 
 ## Factional (Framework)
-Governance model in which several factions coexist inside F4JV entities so competition, criticism, and conflict remain structurally possible and beneficial, while being moderated to avoid dangerous escalation.
+Governance model in which several factions coexist under a global overseer tasked with moderation. Factional Framework ensures competition, criticism, and conflict remain structurally possible and beneficial, while being moderated to avoid dangerous escalation.
 
 ## SCARABY™
 A co-veterinarian agent, co-competitor of BAZYXOR.

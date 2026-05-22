@@ -24,7 +24,7 @@ Signes Distinctifs : {ex: marque de naissance}
 
 Témoins : {membres de la famille, proches}
 
-Voeux : {ex: les souhaits de l'enfant pour l'agent: "Je voudrais qu'il 
+Voeux : {ex: les souhaits de l'enfant pour l'agent: "Je voudrais qu'il..."}
 
 Co-Vétérinaires : {les Co-vétérinaires de l'Agent} {ex: BAZYXOR, SCARABY}
 
