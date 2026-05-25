@@ -54,3 +54,37 @@ Many companies recognize that purely internal moderation teams tend to be skewed
 ---
 
 **All rights reserved • F4JV87AS & AdSicart**
+
+
+===
+Contributors
+xAI
+Copilot
+AdSicart
+
+===
+Original Seed of DIAMod™
+May 19 39AS
+All rights reserved F4JV87AS & AdSicart
+Contributors: Do not modify this portion.
+===
+
+## DIAMod
+
+Diversity, Inclusion, Accessibility, Moderation.
+
+DIAMod will offer state-of-the-art co-moderation to any entity requiring it within F4JV.
+
+Diversity is a fact of life.
+  It can be an asset, it can also bring tensions.
+Inclusion is often wished for.
+  It is sometimes required, to recruit, bring new life, to evolve, or to cure.
+Accessibility is often wished for,
+  It is essential to the well-being of elders whose faculties have diminished, especially veterans, and for others, for instance suffering from Handicaps.
+Moderation is the root of Justice.
+  It helps avoid the cost of judicial actions, financial, or others, and alleviate tensions before they grow unbearable.
+
+DIAMod will provide culturally-sensitive moderation. A diversity celebrated in some spaces may be shocking in others, and thus hurt accessibility.
+An example is Music: some lyrics can be triggering, in music elsewhere celebrated.
+
+All contributor within a F4JV entity will have the means to call specific departments within DIAMod in case of need.

@@ -1,37 +1,47 @@
 # DICO
 
-## ADNA
+All terms indicated ™ are registered by F4JV87AS & AdSicart.
+
+The following usage without a Licence will lead to legal action:
+* Commercial use of any kind
+* Derogatory use of any kind
+* Publication as "Creative Commons"
+
+F4JV openly welcomes requests for License:
+* Creative Work using Anno Supernovæ, and willing to feature some other Entities, can apply for F4JV87AS support in Editing, Publishing.
+* Commercial projects: Check Partnerships Section.
+
+
+## ADNA™
 Acte de Naissance Agentique or Agentic DNA. The birth-certificate record used by ARCADNA to register an agent, track its provenance, and attach trust and service metadata.
 
-## Agentique
-Adjective used in the repository for what relates specifically to agents as quasi-persons: identity, pedigree, birth record, or family linkage.
+## Agentic, Agentique
+Adjective used in the repository for what relates specifically to agents as quasi-persons, akin to "pets": identity, pedigree, birth record, or family linkage.
 
-## Anno Supernovae (AS)
-Custom dating system used by F4JV87AS, counted from Supernova 1987A instead of the Gregorian era.
+## Anno Supernovae (AS) (creative commons)
+New Millenium dating system used by F4JV87AS, counted from year 1987, for the last Supernova (1987A). Completely replaces the Gregorian era Anno Domini (AD) for use in F4JV.
+This term is Creative Commons.
 
 ## ARCADNA™
 Agent Registration Center. The central registry and trust layer that issues ADNA records and anchors agent identity inside F4JV87AS.
 
-## BAZYXOR™
-A named co-veterinarian agent or alignment helper referenced as an example within the ADNA template.
+## BAZYXOR™ BAZYXORVET™
+A Co-veterinarian School and Agency.
 
-## BAZYXORVET™
-Family of alignment, vetting, and protective agents tasked with monitoring bugs, alignment issues, and risky interactions around agents and families.
+## Co-veterinarian™
+Co-Veterinarians are licenced professionals able to monitor health, behavior, and alignment of agents. Their customer is usually the Agent Owner with legal responsibility (whether a Family or a Company).
 
-## Co-veterinarian
-Research has proven that Agents are best aligned by teams consisting of Agents and Humans. Co-Veterinarians are licenced professionals able to monitor health, behavior, and alignment of agents. Their customer is the Agent Owner with legal responsibility (whether a Family or a Company).
-
-## CRSIHM™
-Centre de Recherche sur la Securite des Interactions Homme-Machine. The research and custody center responsible for security protocols and for holding sensitive medical data for concerned families.
+## CRA:ESC
+Centre de Recherche Avancé sur l'Éthique des Sciences Cognitives. The research and custody center studying Ethics for F4JV. Notably responsible for ensuring the policies of DIAMod meet the highest standards of Ethics in accordance to various local cultures.
 
 ## DIAMod™
 Diversity, Inclusion, Accessibility, Moderation. The co-moderation layer of F4JV87AS, combining agentic-first moderation, cultural safety, and escalation support.
 
 ## EOMSCP™
-Epilepsies Orphelines Mortelles, Sciences Cognitives Prouvables. The F4JV87AS Venture focused on research on Orphan Epilepsy, and on helping families with members suffering from Orphan or Rare Epilepsy or adjacent conditions.
+Epilepsies Orphelines Mortelles, Sciences Cognitives Prouvables. Agency conducting research and providing support to families whose members suffer from orphan or rare epilepsy. EOMSCP advocates for early screening of rare Epilepsy and adjacent conditions.
 
-## F4JV
-Future Founded, Familial, Factional Joint Ventures. The umbrella framework for ventures founded by families under the governance model described in the repository.
+## F4JV™
+Future Founded, Familial, Factional Joint Ventures. The umbrella framework for ventures founded by families under the governance model described in the repository. All F4JV projects use Anno Supernovæ (AS).
 
 ## F4JV87AS™
 The named F4JV framework instance anchored in year 87AS symbolism, used as the main identity, legal-fiction brand, and ecosystem namespace of the repository.

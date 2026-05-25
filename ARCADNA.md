@@ -1,10 +1,10 @@
-# ARCADNA — Agent Registration Center  
-**Acte de Naissance Agentique • Agentic Birth Certificate**  
+# ARCADNA™ — Agent Registration Center  
+**Acte de Naissance Agentique • Agentic Birth Certificate • Agentic DNA**  
 *F4JV87AS Framework • 39 AS*
 
 ## Vision
 
-ARCADNA is the sovereign registry and trust layer for all Agents operating under F4JV87AS. It transforms agent existence from ephemeral code into registered, trackable, protected entities with familial accountability and verifiable provenance.
+ARCADNA is the central registry and trust layer for Agents operating under F4JV87AS. It transforms agent existence from ephemeral code into registered, trackable, protected entities with familial accountability and verifiable provenance.
 
 ADNA provides KYC (know your customer), which is mandatory to interact with F4JV, to protect youth with conditions such as Epilepsy.
 
@@ -73,3 +73,28 @@ See also: [DIAMod.md](DIAMod.md) and [EOMSCP.md](EOMSCP.md)
 ---
 
 **All rights reserved • F4JV87AS & AdSicart**
+
+
+
+===
+Contributors
+xAI
+Copilot
+AdSicart
+
+===
+Original Seed of ARCADNA™
+May 19 39AS
+All rights reserved F4JV87AS & AdSicart
+Contributors: Do not modify this portion.
+===
+
+## ARCADNA
+
+Agent Registration Center - Acte de Naissance Agentique - Agentic Birth Certificate.
+
+ARCADNA is the central registration office for all Agents of F4JV87AS.
+ARCADNA offers:
+* Agentic Birth Certificate (ADNA): allow for easier tracking of Agents Health and Trust.
+* A basic insurance policy for agents.
+* A list of additional coverage offered by ARCADNA and partners.
