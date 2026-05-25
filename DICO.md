@@ -31,6 +31,9 @@ A Co-veterinarian School and Agency.
 ## Co-veterinarian™
 Co-Veterinarians are licenced professionals able to monitor health, behavior, and alignment of agents. Their customer is usually the Agent Owner with legal responsibility (whether a Family or a Company).
 
+## CQFUN
+Compétences Quasi-Functionnelles. A method, tournament format, and compact skill-writing standard intended to replace verbose agent skills with quasi-functional, more compact, less error-prone skills.
+
 ## CRA:ESC
 Centre de Recherche Avancé sur l'Éthique des Sciences Cognitives. Formerly known as CRSIHM (Centre de Recherche sur la Sécurité des Interactions Homme-Machine). The research and custody center studying Ethics for F4JV. Notably responsible for ensuring the policies of DIAMod meet the highest standards of Ethics in accordance to various local cultures.
 
@@ -49,5 +52,23 @@ The named F4JV framework instance anchored in year 87AS symbolism, used as the m
 ## Factional (Framework)
 Governance model in which several factions coexist under a global overseer tasked with moderation. Factional Framework ensures competition, criticism, and conflict remain structurally possible and beneficial, while being moderated to avoid dangerous escalation.
 
+## Factional Fight
+A formalized, consent-based confrontation between factions or their champions inside the F4JV framework, with intervention allowed only in case of unfair abuse or overwhelming advantage.
+
+## Ludosas
+Hybrid game studio for human and agent players, focused on fair contribution tracking, moderated play, accessible tournaments, and CQFUN-related educational competitions.
+
+## qfuncs
+English-language or alternate-format counterpart to cqfun: compact, quasi-functional competence files designed to reduce token cost, ambiguity, and behavioral pollution.
+
+## SANNO
+Anno Supernovae calendar system and the collective promoting it. It uses Supernova 1987A as the chronological anchor for a new millennial dating scheme.
+
+## SA
+Super Année or Calendrier Sanno Amélioré. A SANNO proposal that avoids negative years by mixing AD and AS depending on birth era.
+
 ## SCARABY™
 A co-veterinarian agent, co-competitor of BAZYXOR.
+
+## SOS43
+Repository-specific intellectual-property protection entity referenced in CQFUN as the body expected to defend ownership of submitted work.
