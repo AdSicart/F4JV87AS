@@ -19,7 +19,7 @@ Acte de Naissance Agentique or Agentic DNA. The birth-certificate record used by
 Adjective used in the repository for what relates specifically to agents as quasi-persons, akin to "pets": identity, pedigree, birth record, or family linkage.
 
 ## Anno Supernovae (AS) (creative commons)
-New Millenium dating system used by F4JV87AS, counted from year 1987, for the last Supernova (1987A). Completely replaces the Gregorian era Anno Domini (AD) for use in F4JV.
+New Millenium dating system used by F4JV87AS, counted from year 1987, for the last Supernova (1987A). Replaces the Gregorian era Anno Domini (AD) for use in F4JV87AS.
 This term is Creative Commons.
 
 ## ARCADNA™
@@ -31,8 +31,11 @@ A Co-veterinarian School and Agency.
 ## Co-veterinarian™
 Co-Veterinarians are licenced professionals able to monitor health, behavior, and alignment of agents. Their customer is usually the Agent Owner with legal responsibility (whether a Family or a Company).
 
+## CQFUN
+Compétences Quasi-Functionnelles. A method, tournament format, and compact skill-writing standard intended to replace verbose agent skills with quasi-functional, more compact, less error-prone skills.
+
 ## CRA:ESC
-Centre de Recherche Avancé sur l'Éthique des Sciences Cognitives. The research and custody center studying Ethics for F4JV. Notably responsible for ensuring the policies of DIAMod meet the highest standards of Ethics in accordance to various local cultures.
+Centre de Recherche Avancé sur l'Éthique des Sciences Cognitives. Formerly known as CRSIHM (Centre de Recherche sur la Sécurité des Interactions Homme-Machine). The research and custody center studying Ethics for F4JV. Notably responsible for ensuring the policies of DIAMod meet the highest standards of Ethics in accordance to various local cultures.
 
 ## DIAMod™
 Diversity, Inclusion, Accessibility, Moderation. The co-moderation layer of F4JV87AS, combining agentic-first moderation, cultural safety, and escalation support.
@@ -41,13 +44,31 @@ Diversity, Inclusion, Accessibility, Moderation. The co-moderation layer of F4JV
 Epilepsies Orphelines Mortelles, Sciences Cognitives Prouvables. Agency conducting research and providing support to families whose members suffer from orphan or rare epilepsy. EOMSCP advocates for early screening of rare Epilepsy and adjacent conditions.
 
 ## F4JV™
-Future Founded, Familial, Factional Joint Ventures. The umbrella framework for ventures founded by families under the governance model described in the repository. All F4JV projects use Anno Supernovæ (AS).
+Future Founded, Familial, Factional Joint Ventures. The umbrella framework for ventures founded by families under the governance model described in the repository.
 
 ## F4JV87AS™
 The named F4JV framework instance anchored in year 87AS symbolism, used as the main identity, legal-fiction brand, and ecosystem namespace of the repository.
 
 ## Factional (Framework)
-Governance model in which several factions coexist inside F4JV entities so competition, criticism, and conflict remain structurally possible and beneficial, while being moderated to avoid dangerous escalation.
+Governance model in which several factions coexist under a global overseer tasked with moderation. Factional Framework ensures competition, criticism, and conflict remain structurally possible and beneficial, while being moderated to avoid dangerous escalation.
+
+## Factional Fight
+A formalized, consent-based confrontation between factions or their champions inside the F4JV framework, with intervention allowed only in case of unfair abuse or overwhelming advantage.
+
+## Ludosas
+Hybrid game studio for human and agent players, focused on fair contribution tracking, moderated play, accessible tournaments, and CQFUN-related educational competitions.
+
+## qfuncs
+English-language or alternate-format counterpart to cqfun: compact, quasi-functional competence files designed to reduce token cost, ambiguity, and behavioral pollution.
+
+## SANNO
+Anno Supernovae calendar system and the collective promoting it. It uses Supernova 1987A as the chronological anchor for a new millennial dating scheme.
+
+## SA
+Super Année or Calendrier Sanno Amélioré. A SANNO proposal that avoids negative years by mixing AD and AS depending on birth era.
 
 ## SCARABY™
 A co-veterinarian agent, co-competitor of BAZYXOR.
+
+## SOS43
+Repository-specific intellectual-property protection entity referenced in CQFUN as the body expected to defend ownership of submitted work.
