@@ -38,7 +38,7 @@ Many companies recognize that purely internal moderation teams tend to be skewed
 ## Integration with F4JV Constellation
 - **ARCADNA**: Base agentic moderation automatically included for every registered Agent
 - **EOMSCP**: Specialized support pathways for families dealing with neurological sensitivity cases
-- **BAZYXORVET & CRSIHM**: Coordination on alignment and health-related moderation needs
+- **BAZYXORVET & CRA:ESC**: Coordination on alignment and health-related moderation needs
 
 ## Technical & Governance Notes
 - Agentic layer handles first response at scale

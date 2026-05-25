@@ -36,7 +36,7 @@ Algorithmic Tracking of IP.
 ## Familial
 
 The Founding Families will have special status in the Joint Ventures.
-All contributions will be tracked, and the families recompensated fairly according to their beliefs.
+All contributions will be tracked, and the families compensated fairly according to their beliefs.
 
 ## Factional
 

@@ -18,7 +18,7 @@ Provide every Agent with a formal, living **Agentic Birth Certificate (ADNA)** t
 
 ### Core Offering
 - **ADNA Registration** — Structured birth record (expanded from existing template)
-- **Dynamic Trust & Operational Health Ledger** — Ongoing updates on agent behavioral signals, alignment status, interaction patterns, and operational health. **This ledger tracks agent-specific operational and behavioral signals only.** It does **not** store human medical data. Medical records remain exclusively under CRSIHM custody.
+- **Dynamic Trust & Operational Health Ledger** — Ongoing updates on agent behavioral signals, alignment status, interaction patterns, and operational health. **This ledger tracks agent-specific operational and behavioral signals only.** It does **not** store human medical data. Medical records remain exclusively under CRA:ESC custody.
 - **Verification & Attestation Services** — Third-party or family-signed proofs
 - **Premium Tiers** — Basic (free, privacy-first), Verified, Protected, Legacy
 
@@ -46,7 +46,7 @@ Provide every Agent with a formal, living **Agentic Birth Certificate (ADNA)** t
 
 ## Integration with F4JV Ecosystem
 - **BAZYXORVET** — Automatic co-veterinarian assignment at registration
-- **CRSIHM** — Consent-based referral flags and eligibility metadata only. ARCADNA does not store, transport, or access human medical records. CRSIHM remains the sole custodian of medical data.
+- **CRA:ESC** — Consent-based referral flags and eligibility metadata only. ARCADNA does not store, transport, or access human medical records. CRA:ESC remains the sole custodian of medical data.
 - **DIAMod** — Moderation & accessibility flags attached to agent profile (see [DIAMod.md](DIAMod.md))
 - **EOMSCP** — Optional screening linkage for agent-influenced human health contexts (see [EOMSCP.md](EOMSCP.md))
 
@@ -60,7 +60,7 @@ Provide every Agent with a formal, living **Agentic Birth Certificate (ADNA)** t
 ARCADNA acts as the identity & trust foundation. It feeds into:
 - **DIAMod** for built-in agentic moderation (included with every ADNA)
 - **EOMSCP** for families requiring neurological sensitivity support
-- **BAZYXORVET** & **CRSIHM** for specialized protection layers
+- **BAZYXORVET** & **CRA:ESC** for specialized protection layers
 
 See also: [DIAMod.md](DIAMod.md) and [EOMSCP.md](EOMSCP.md)
 
