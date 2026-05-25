@@ -1,4 +1,6 @@
-All right reserved, Tous droits réservés: F4JV87AS and AdSicart@Github
+All right reserved on all repository.
+Tous droits réservés sur tout le répertoire.
+Ayants droits: F4JV87AS et AdSicart@Github.
 
 F4JV
 F4JV87AS™
