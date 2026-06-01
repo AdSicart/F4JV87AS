@@ -11,6 +11,11 @@ F4JV87AS:CRA:ESC™
 F4JV87AS:DIAMod™
 F4JV87AS:EOMSCP™
 
+# Important Dislaimer
+
+This is the tip of the tip of the Iceberg that is the IP of F4JV87AS.
+Most of the IP of F4JV87AS is not public, held in private files, or in physical form only
+All of the core IP comes from human families. When an AI or agent contributed anything significant (more than rephrasing), it is mentioned.
 
 # F4JV87AS
 
