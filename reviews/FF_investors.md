@@ -1,6 +1,6 @@
 # Friends & Family: Investing in Our Children's Health and Happiness
 
-When we talk to you about F4JV87AS in this Friends & Family document, our focus is not standard "startup speak." As F4JV87AS, we do use terms like "Total Addressable Market," "exit strategies," or "B2B synergies" when relevant, and we are not opposed to VC investment; what we oppose is lawless piracy.
+When we talk to you about F4JV87AS in this Friends & Family document, our focus is not standard "startup speak." At F4JV87AS, we do use terms like "Total Addressable Market," "exit strategies," or "B2B synergies" when relevant. We are not opposed to VC investment; what we oppose is lawless piracy.
 
 We want to talk about what actually matters to us, to you, and to our families: **Youth, Health, and Fun.**
 
@@ -16,7 +16,7 @@ Health is the foundation. If our kids aren't healthy and safe, nothing else matt
 Technology shouldn't just be safe; it should be an engine for joy, sportsmanship, and growth.
 - **Learning Through Play (CQFUN):** We are replacing dry, exhausting screen-time with ludo-educational (playful learning) and sports-oriented methods. We want our youth active, engaged, and smiling.
 - **A New Kind of Game Studio (LUDOSAS):** We are building games and organizing safe, supervised tournaments that celebrate sports values, inclusivity, and teamwork. We firmly stand against doping, advocating for fairness and sturdy moderation with DIAMod. It’s about creating moments where families can bond and children can shine.
-- **Agents in Service of your Family (BAZYXORVET):** We position AI as Agents in Service of your Family: securing your children and other vulnerable members (handicap), and reporting to the Family Legal Guardians and to the Agentic CoVeterinarians of the family.
+- **Agents in Service of your Family (BAZYXORVET):** We position AI as Agents in Service of your Family: securing your children and other vulnerable members (with disabilities), and reporting to the family legal guardians and to the agentic co-veterinarians (family AI oversight agents) of the family.
 
 ## 🌱 Why We Need You
 We are building this for our families, which is why we are coming to you—our Friends & Family—first.
