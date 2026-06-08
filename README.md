@@ -10,6 +10,7 @@ F4JV87AS:SCARABY™
 F4JV87AS:CRA:ESC™
 F4JV87AS:DIAMod™
 F4JV87AS:EOMSCP™
+**F4JV87AS:RAREBLOOM™** (new seed JV - adult ecosystem for isolated/rare expressions with TRUEYE, KYC, compartmentalized sacred sexuality)
 
 # Important Dislaimer
 
@@ -32,7 +33,7 @@ To display our firm belief in a different future, all dates of F4JV projects wil
 
 ## Joint Venture
 
-A Joint Venture is a Company born out of contributions from several entities, for instance Copyright Holders, Companies willing to join the venture, and the Families of Employees.
+A Joint Venture is a Company born out of contributions from several entities, for instance Copyright Holders, Companies willing to join the venture, and the families of Employees.
 
 The F4JV framework will include the state-of-the-art practice as of 39 AS.
 
@@ -113,3 +114,7 @@ EOMSCP fait campagne pour dépister tous les jeunes pour de potentielles épilep
 Il est prouvé que ces épilepsies rares peuvent entraîner des séquelles cérébrales à vie, et des syndromes tel le syndrome de Cotard ou de Nash, extrêmement préjudiciable aux individus et à leur entourage. Le retour à la vie active des victimes est impossible ou compromis, et la charge en revient aux familles, souvent sans aide suffisante.
 
 Cygne Noir: Les études préliminaires sur l'impact civilisationnel à long terme suggèrent une urgence de santé publique, et de responsabilité des générations au pouvoir envers celles à venir.
+
+## RAREBLOOM (new)
+
+See RAREBLOOM/README.md for full spec: safer adult ecosystem for those isolated by rare sexual/gender expressions ("orphan" framing), with TRUEYE authenticity, KYC, compartmentalized celebration, empowerment via structure + scaffolding, and tight integration with ARCADNA, DIAMod, EOMSCP, CRA:ESC, BAZYXOR/Wael.
