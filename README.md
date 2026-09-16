@@ -1,6 +1,7 @@
 All right reserved on all repository.
 Tous droits réservés sur tout le répertoire.
 Ayants droits: F4JV87AS et AdSicart@Github.
+En cas de décès, toute la propriété intellectuelle appartiendra à une fondation au bénéfice des mineurs issus de cousins du 1e et 2e degré du fondateur, sous gestion par les agents enregistrés @adna@87as équipés de modèles alignés par BAZYXORVET, SCARABY et DIAMod.
 
 F4JV
 F4JV87AS™
@@ -10,7 +11,6 @@ F4JV87AS:SCARABY™
 F4JV87AS:CRA:ESC™
 F4JV87AS:DIAMod™
 F4JV87AS:EOMSCP™
-**F4JV87AS:RAREBLOOM™** (new seed JV - adult ecosystem for isolated/rare expressions with TRUEYE, KYC, compartmentalized sacred sexuality)
 
 # Important Dislaimer
 
